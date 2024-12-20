@@ -1,4 +1,4 @@
-# Traffic FSM Controller
+# Traffic Controller
 
 ## Overview
 
