@@ -1,4 +1,4 @@
-# 3D Convolutional Neural Network with Max Pooling
+# 3D Convolutional Neural Network 
 
 ## Project Overview
 
@@ -138,16 +138,4 @@ The system operates in three stages:
 4. Simulate the pipeline using the testbench (`tb_cnn_3d.sv`).
 5. View the results printed in the simulation log.
 
----
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-## Contact
-
-For any inquiries or feedback, please raise an issue in the repository or contact the maintainer.
-
----
