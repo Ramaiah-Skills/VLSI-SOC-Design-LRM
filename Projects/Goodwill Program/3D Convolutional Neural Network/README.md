@@ -138,4 +138,6 @@ The system operates in three stages:
 4. Simulate the pipeline using the testbench (`tb_cnn_3d.sv`).
 5. View the results printed in the simulation log.
 
-
+##Author  
+Nithyasree,  
+Trainee at Ramaiah Skill Academy
